@@ -41,20 +41,20 @@
 > <img src="https://raw.githubusercontent.com/DEF4LT-303/Valorant-Pro-Match-Analysis/main/Media/image1.png" alt="Confusion Matrix" style="width: 500px;"/>
 
 
-**Fig-1: Confusion Matrix (Predicting Winning Team)**
+**Fig-1: Confusion Matrix (Predicting Winning Team)** \
 The confusion matrix shows a representation of he count of correct and wrong predictions.
 
 ><img src="https://raw.githubusercontent.com/DEF4LT-303/Valorant-Pro-Match-Analysis/main/Media/image2.png" alt="Density Plot" style="width: 500px;"/>
 
 
-**Fig-2: Density Plot (Predicting Top Players)**
+**Fig-2: Density Plot (Predicting Top Players)** \
 The density plot graph shows the distribution of True ACS and Predicted kills of players.
 
 ><img src="https://raw.githubusercontent.com/DEF4LT-303/Valorant-Pro-Match-Analysis/main/Media/image3.png" alt="Density Plot" style="width: 500px;"/>
 
 
 
-**Fig-3: Density Plot (Predicting Player Stats)**
+**Fig-3: Density Plot (Predicting Player Stats)** \
 The density plot graph shows the distribution of True kills and Predicted kills of players.
 
 **IV\. RESULTS**
