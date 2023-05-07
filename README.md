@@ -5,8 +5,8 @@
 >
 > Author(s): \
 > [Mohammad Ryan Ur Rafi](https://github.com/DEF4LT-303) \
-> Ahmed Zarir Siddique \
-> Hasnat Md. Imtiaz
+> [Ahmed Zarir Siddique](https://github.com/zarirgit?tab=repositories) \
+> [Hasnat Md. Imtiaz](https://github.com/HasnatMdImtiaz)
 
 **I. INTRODUCTION**
 
@@ -59,3 +59,10 @@ The density plot graph shows the distribution of True kills and Predicted kills 
 
 **IV\. RESULTS**
 >For the part where the model is able to predict the winning team in a tournament, On the test dataset, the machine learning model constructed in this research performed well, with an accuracy of 93%. A Random Forest Classifier with 100 estimators was utilized as the model. The training accuracy was determined to be 1.0, and the testing accuracy was determined to be 0.93. The model was used to forecast the winning team in a tournament given a balance of ten distinct players, with five on each team, as well as to rate players based on their predicted ACS. The results demonstrated that the model could correctly estimate the winning team from a list of teams in the competition. However, the accuracy of the model was lower when predicting a sample of top players in the future based on their ACS. Further improvements could be made by tuning the hyperparameters of the model or by using similar machine learning models that adopt the Tree machine learning model architecture. Overall, this model showed significant promise and could be a good alternative for predicting the winning team in a tournament.
+
+**V\. REFERENCES**
+
+
+> - [Analysis-of-T1-T3-VALORANT-tournaments](https://github.com/hemmys/Analysis-of-T1-T3-VALORANT-tournaments)
+> - [Valorant-Berlin](https://github.com/jasonren12/Valorant-Berlin)
+
